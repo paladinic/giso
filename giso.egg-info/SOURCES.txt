@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+giso/__init__.py
+giso/utils.py
+giso.egg-info/PKG-INFO
+giso.egg-info/SOURCES.txt
+giso.egg-info/dependency_links.txt
+giso.egg-info/requires.txt
+giso.egg-info/top_level.txt
+tests/__init__.py
+tests/test_giso.py
